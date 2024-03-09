@@ -12,4 +12,25 @@ There are various datatypes including:
 * Set
 * Complex
 
+### **Integer Datatype**
+We can use `int` datatype to represent whole numbers.
 
+```py
+a = 10
+print(a)
+print(type(a))
+```
+**Output:**
+10
+<class 'int'>
+
+We can represent `int` values in the following ways.
+* Decimal (base = 10)
+* Binary (base = 2)
+* Octal (base = 8)
+* Hexa-Decimal (base = 16)
+
+If we need to do the convert the base then we use the in-built functions of python:
+* `bin()`: It convert from any base to binary.
+* `oct()`: It convert from any base to octal.
+* `hex()`: It converts from any base to hexadecimal.
