@@ -9,7 +9,7 @@ The printing statement in the python is `print()`. It can be used to display val
 ###  **Example 1: Print a single value**
 
 ```py
-print("Hello World!)
+print("Hello World!")
 ```
 **Output**: Hello World!
 
