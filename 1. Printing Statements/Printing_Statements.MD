@@ -21,8 +21,9 @@ y = 20
 print("The value of x is:", x)
 print("The value of y is:", y)
 ```
-**Output**: The value of x is: 10  <br>
-            The value of y is: 20
+**Output**: 
+The value of x is: 10
+The value of y is: 20
 
 ### **Example 3: Printing multiple variables using f-strings (Python 3.6+)**
 
