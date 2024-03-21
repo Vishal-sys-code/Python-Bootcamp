@@ -34,3 +34,7 @@ If we need to do the convert the base then we use the in-built functions of pyth
 * `bin()`: It convert from any base to binary.
 * `oct()`: It convert from any base to octal.
 * `hex()`: It converts from any base to hexadecimal.
+
+### **Float Datatype**
+
+We can use `float` datatype to represent real number.
